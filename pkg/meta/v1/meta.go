@@ -7,7 +7,7 @@ package v1
 import (
 	"time"
 
-	"github.com/marmotedu/component-base/pkg/scheme"
+	"github.com/francislyj/go-component-base/pkg/scheme"
 )
 
 type ObjectMetaAccessor interface {

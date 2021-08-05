@@ -26,8 +26,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/marmotedu/component-base/pkg/util/clock"
-	"github.com/marmotedu/component-base/pkg/util/runtime"
+	"github.com/francislyj/go-component-base/pkg/util/clock"
+	"github.com/francislyj/go-component-base/pkg/util/runtime"
 )
 
 func TestUntil(t *testing.T) {

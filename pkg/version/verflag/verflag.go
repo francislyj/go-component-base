@@ -13,7 +13,7 @@ import (
 
 	flag "github.com/spf13/pflag"
 
-	"github.com/marmotedu/component-base/pkg/version"
+	"github.com/francislyj/go-component-base/pkg/version"
 )
 
 type versionValue int

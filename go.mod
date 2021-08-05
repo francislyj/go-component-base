@@ -1,4 +1,4 @@
-module github.com/marmotedu/component-base
+module github.com/francislyj/go-component-base
 
 go 1.16
 
@@ -8,6 +8,8 @@ require (
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/fatih/color v1.10.0 // indirect
+	github.com/francislyj/go-errors v0.0.1
+	github.com/francislyj/go-log v0.0.1
 	github.com/gin-gonic/gin v1.6.3
 	github.com/go-playground/locales v0.13.0
 	github.com/go-playground/universal-translator v0.17.0
@@ -15,8 +17,7 @@ require (
 	github.com/gosuri/uitable v0.0.4
 	github.com/h2non/filetype v1.1.1
 	github.com/json-iterator/go v1.1.10
-	github.com/marmotedu/errors v0.0.1
-	github.com/marmotedu/log v0.0.1
+	github.com/marmotedu/log v0.0.1 // indirect
 	github.com/mattn/go-runewidth v0.0.10 // indirect
 	github.com/moby/term v0.0.0-20201216013528-df9cb8a40635
 	github.com/sony/sonyflake v1.0.0

@@ -12,7 +12,7 @@ import (
 
 	"github.com/gosuri/uitable"
 
-	"github.com/marmotedu/component-base/pkg/json"
+	"github.com/francislyj/go-component-base/pkg/json"
 )
 
 var (

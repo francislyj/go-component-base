@@ -24,8 +24,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/marmotedu/component-base/pkg/util/clock"
-	"github.com/marmotedu/component-base/pkg/util/runtime"
+	"github.com/francislyj/go-component-base/pkg/util/clock"
+	"github.com/francislyj/go-component-base/pkg/util/runtime"
 )
 
 // For any test of the style:

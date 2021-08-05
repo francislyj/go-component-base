@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/marmotedu/component-base/pkg/validation/field"
+	"github.com/francislyj/go-component-base/pkg/validation/field"
 )
 
 func TestIsDNS1123Label(t *testing.T) {

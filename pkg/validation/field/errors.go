@@ -10,9 +10,9 @@ import (
 	"strconv"
 	"strings"
 
-	utilerrors "github.com/marmotedu/errors"
+	utilerrors "github.com/francislyj/go-errors"
 
-	"github.com/marmotedu/component-base/pkg/util/sets"
+	"github.com/francislyj/go-component-base/pkg/util/sets"
 )
 
 // Error is an implementation of the 'error' interface, which represents a

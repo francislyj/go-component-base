@@ -4,7 +4,7 @@
 
 package fields
 
-import "github.com/marmotedu/component-base/pkg/selection"
+import "github.com/francislyj/go-component-base/pkg/selection"
 
 // Requirements is AND of all requirements.
 type Requirements []Requirement

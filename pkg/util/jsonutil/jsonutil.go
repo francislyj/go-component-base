@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/marmotedu/component-base/pkg/json"
+	"github.com/francislyj/go-component-base/pkg/json"
 )
 
 type JSONRawMessage []byte

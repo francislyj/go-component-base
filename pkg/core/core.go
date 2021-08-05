@@ -8,8 +8,8 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/marmotedu/errors"
-	"github.com/marmotedu/log"
+	"github.com/francislyj/go-errors"
+	"github.com/francislyj/go-log"
 )
 
 // ErrResponse defines the return messages when an error occurred.

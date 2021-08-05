@@ -7,7 +7,7 @@ package runtime
 import (
 	"fmt"
 
-	"github.com/marmotedu/component-base/pkg/json"
+	"github.com/francislyj/go-component-base/pkg/json"
 )
 
 // NegotiateError is returned when a ClientNegotiator is unable to locate
