@@ -1,5 +1,5 @@
 GO := go
-ROOT_PACKAGE := github.com/marmotedu/component-base
+ROOT_PACKAGE := github.com/francislyj/go-component-base
 ifeq ($(origin ROOT_DIR),undefined)
 ROOT_DIR := $(shell pwd)
 endif
